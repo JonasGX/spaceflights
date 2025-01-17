@@ -75,7 +75,8 @@ Começando a brincadeira
 * Esse comando, puxa diversas sérias para carregar os conjuntos de Dados
 
 -- Acessar o arquivo de catalog em conf/base/catalog.yml
-* Escrever o código conforme mostra o arquivo
+* Escrever o código conforme mostra o arquivo catalog.yml
 
+-- após configurar catalog.yml rodar os códigos do notebook: data_exploration
 
-
+++ TERMINEI O VIDEO: https://www.youtube.com/watch?v=rl2cncGxyts ++
