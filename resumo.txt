@@ -79,4 +79,8 @@ Começando a brincadeira
 
 -- após configurar catalog.yml rodar os códigos do notebook: data_exploration
 
-++ TERMINEI O VIDEO: https://www.youtube.com/watch?v=rl2cncGxyts ++
+-- Com os códigos de exploração dos dados realizados, vamos partir para a criação das funções em python
+* Vamos refatorar os códigos para depois inserir em funções python para a criação das pipelines
+
+-- TERMINEI O VÍDEO: https://www.youtube.com/watch?v=VFcrvnnNas4
+
